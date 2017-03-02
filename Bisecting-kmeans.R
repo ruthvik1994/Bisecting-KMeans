@@ -1,5 +1,5 @@
 ######
-# Bisecting K-Means By Ruthvik Mandava
+# Bisecting K-Means Implementation By Ruthvik Mandava
 # Coursework - Automated Learning and Data analysis - CSC 522 - Dr.Raju
 # North Carolina State University
 #####
